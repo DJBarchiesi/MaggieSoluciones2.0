@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#main-container{
+    margin: 87px auto 40px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+}
+#Vision{
+    width: 100%;
+    padding: 48px;
+    height: 300px;
+    background-color: lightpink;
+}
+#Mision{
+    width: 100%;
+    padding: 48px;
+    height: 300px;
+    background-color: pink;
+}
+#Valores{
+    width: 100%;
+    padding: 48px;
+    height: 300px;
+    background-color: violet;
+}
+#Diagnostico{
+    width: 100%;
+    padding: 48px;
+    height: 400px;
+    background-color: lightpink;
+}
+#Presupuesto{
+    width: 100%;
+    padding: 48px;
+    height: 400px;
+    background-color: pink;
+}
+#Construccion{
+    width: 100%;
+    padding: 48px;
+    height: 400px;
+    background-color: rgb(199, 2, 199);
+}
+#Reparacion{
+    width: 100%;
+    padding: 48px;
+    height: 400px;
+    background-color: violet;
+}
+#Formulario{
+    width: 100%;
+    padding: 48px;
+    height: 500px;
+    background-color: pink;
+}
+#Mapa{
+    width: 100%;
+    padding: 48px;
+    height: 500px;
+    background-color: violet;
+}
+
+#h2Servicios{
+    color: var(--veryLightGray);
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2em;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+#h2General{
+    color: var(--veryLightGray);
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2.4em;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
